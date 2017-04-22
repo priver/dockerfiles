@@ -1,0 +1,4 @@
+# IDE / OS files
+*.sublime-project
+*.sublime-workspace
+.DS_Store
